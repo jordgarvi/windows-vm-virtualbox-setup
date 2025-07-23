@@ -1,4 +1,6 @@
-### Step 2: Configure Virtual Storage
+# 02 – Configure Virtual Storage
+
+### Step 1: Create Virtual Hard Disk
 
 1. Choose **Create a virtual hard disk now** when prompted.
 2. Select **VDI (VirtualBox Disk Image)** as the disk type.
@@ -13,11 +15,13 @@
 
 ---
 
-### Step 3: Mount Windows ISO in Virtual Storage
+### Step 2: Mount Windows ISO
 
-1. Go to the VM's settings and click on the **Storage** tab.
-2. Mount the Windows ISO under the IDE controller.
+1. Go to the VM’s settings and open the **Storage** tab.
+2. Under the **IDE Controller**, click the empty optical drive.
+3. Click the disk icon and select **Choose a disk file…**
+4. Locate and attach your **Windows 11 ISO** file.
+5. Confirm the ISO appears under the IDE controller.
 
 📸 **Screenshot showing ISO mounted to virtual disk:**  
 ![](../images/iso-mounted.png)
-
