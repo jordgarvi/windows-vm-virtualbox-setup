@@ -1,7 +1,5 @@
 # 04 – Install Windows in VirtualBox
 
-...
-
 ### Step 4: Install Windows
 
 1. Start the virtual machine and follow the installation prompts.
