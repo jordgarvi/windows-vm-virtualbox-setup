@@ -7,4 +7,4 @@
 5. Enable **EFI** if required for Windows 11 (some setups need this).
 
 📸 **Screenshot of VM general settings:**  
-![](./images/vm-settings.png)
+![](../images/vm-settings.png)
