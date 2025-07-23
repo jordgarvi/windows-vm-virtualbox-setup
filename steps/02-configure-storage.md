@@ -10,3 +10,14 @@
 
 📸 **Screenshot of virtual hard disk size selection:**  
 ![](../images/create-virtual-harddisk.png)
+
+---
+
+### Step 3: Mount Windows ISO in Virtual Storage
+
+1. Go to the VM's settings and click on the **Storage** tab.
+2. Mount the Windows ISO under the IDE controller.
+
+📸 **Screenshot showing ISO mounted to virtual disk:**  
+![](../images/iso-mounted.png)
+
