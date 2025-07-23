@@ -6,7 +6,7 @@
 4. Set disk size to at least **32 GB** (64 GB or more recommended for long-term use).
 
 📸 **Screenshot of hard disk format and allocation type:**  
-![](../images/harddisk-settings.png)
+![](./images/harddisk-settings.png)
 
 📸 **Screenshot of virtual hard disk size selection:**  
-![](../images/create-virtual-harddisk.png)
+![](./images/create-virtual-harddisk.png)
