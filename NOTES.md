@@ -2,7 +2,7 @@
 
 - **Boot Order:**  
   Make sure the **Optical Drive** (where the Windows ISO is mounted) is set to boot **before** the Hard Disk. This is crucial for the VM to detect and boot from the ISO properly.  
-  ![](../images/correct-boot-order.png)
+  ![](images/correct-boot-order.png)
 
 - **ISO Mounting Issues:**  
   If your Windows ISO does not boot or the VM reports “No operating system found,” check the following:  
